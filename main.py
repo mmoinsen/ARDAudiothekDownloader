@@ -1,6 +1,4 @@
 import urllib.request
-import ffmpeg.audio
-import ffmpeg.image
 import requests
 from bs4 import BeautifulSoup
 import json
