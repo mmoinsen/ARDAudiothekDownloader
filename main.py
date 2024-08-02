@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 
-# url = 'https://www.ardaudiothek.de/sendung/example' Hier URL des Podcast einfügen
+url = 'https://www.ardaudiothek.de/sendung/example' # Hier URL des Podcast einfügen
 
 embedded_url = ""
 ep_name = ""
